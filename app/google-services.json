@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080874079973",
+    "project_id": "collegecompanion-6cdbd",
+    "storage_bucket": "collegecompanion-6cdbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080874079973:android:627d8c687ba7b4a97da60c",
+        "android_client_info": {
+          "package_name": "com.nativemobilebits.loginflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ5VqOSoBt5MU7bR8D__mEsRjW-k5nrwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
